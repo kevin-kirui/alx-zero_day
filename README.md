@@ -1,2 +1,1 @@
-My first readme
-My first on-platform message
+My first readme updated on the platform.
